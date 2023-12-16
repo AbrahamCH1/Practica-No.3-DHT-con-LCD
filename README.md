@@ -62,7 +62,7 @@ void loop() {
 3. Hacer la conexion de **DHT11** y **LCD 16x2 (I2C)** con la **ESP32** como se muestra en la siguente imagen.
 ![](https://github.com/AbrahamCH1/Practica-No.3-DHT-con-LCD/blob/main/Captura%20de%20pantalla%20(297).png?raw=true)
 
-### INSTRUCCIONES DE OPERACIÓN
+### Instrucciones de operación
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
 3. Visualizar los datos en la pantalla LCD.
@@ -71,6 +71,6 @@ void loop() {
 Cuando haya funcionado, se podrán observar los valores dentro de la pantalla LCD.
 ![](https://github.com/AbrahamCH1/Practica-No.3-DHT-con-LCD/blob/main/Captura%20de%20pantalla%20(295).png?raw=true)
 
-# CRÉDITOS
+# Créditos
 Desarrollado por Ing. Abraham Contreras Herrera
 [GITHUB](https://github.com/AbrahamCH1)
