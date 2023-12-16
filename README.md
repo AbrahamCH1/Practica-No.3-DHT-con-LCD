@@ -69,7 +69,7 @@ void loop() {
 4. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
 ## Resultados
 Cuando haya funcionado, se podrán observar los valores dentro de la pantalla LCD.
-![]()
+![](https://github.com/AbrahamCH1/Practica-No.3-DHT-con-LCD/blob/main/Captura%20de%20pantalla%20(295).png?raw=true)
 
 # CRÉDITOS
 Desarrollado por Ing. Abraham Contreras Herrera
